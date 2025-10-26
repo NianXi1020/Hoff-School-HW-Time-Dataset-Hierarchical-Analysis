@@ -1,0 +1,17 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='600' height='400'>
+<rect x='0' y='0' width='600' height='400' fill='white' stroke='none'/>
+<text x='300.0' y='30' text-anchor='middle' font-size='16'>Sample Means vs Posterior Means</text>
+<text x='300.0' y='385' text-anchor='middle' font-size='12'>Sample Mean</text>
+<text x='15' y='200.0' transform='rotate(-90 15,200.0)' font-size='12'>Posterior Mean</text>
+<line x1='60' y1='60' x2='60' y2='340' stroke='black' stroke-width='1'/>
+<line x1='60' y1='340' x2='540' y2='340' stroke='black' stroke-width='1'/>
+<circle cx='530.68' cy='63.07' r='4' fill='#1f77b4' stroke='none'/>
+<circle cx='231.12' cy='241.83' r='4' fill='#1f77b4' stroke='none'/>
+<circle cx='81.23' cy='329.72' r='4' fill='#1f77b4' stroke='none'/>
+<circle cx='384.87' cy='149.17' r='4' fill='#1f77b4' stroke='none'/>
+<circle cx='540.00' cy='60.00' r='4' fill='#1f77b4' stroke='none'/>
+<circle cx='314.78' cy='191.21' r='4' fill='#1f77b4' stroke='none'/>
+<circle cx='60.00' cy='340.00' r='4' fill='#1f77b4' stroke='none'/>
+<circle cx='148.42' cy='293.15' r='4' fill='#1f77b4' stroke='none'/>
+<polyline fill='none' stroke='#ff7f0e' stroke-width='1.5' points='60.00,365.95 84.00,349.24 108.00,332.52 132.00,315.81 156.00,299.09 180.00,282.38 204.00,265.66 228.00,248.95 252.00,232.23 276.00,215.52 300.00,198.80 324.00,182.09 348.00,165.37 372.00,148.66 396.00,131.94 420.00,115.23 444.00,98.52 468.00,81.80 492.00,65.09 516.00,48.37 540.00,31.66'/>
+</svg>
